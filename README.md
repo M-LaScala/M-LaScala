@@ -4,8 +4,8 @@
 <!-- Sobre -->
 <div align="center">
   🤓 No momento estou cursando Sistemas de Informação na Universidade Católica de Santos<br>
-  🚢 Estou estagiando na Brasil Terminal Portuário<br>
-  📚 Meus estudos estão focados em C# .NET5/6<br><br>
+  🚢 Trabalhando como Analista de Sistemas na Techno Software<br>
+  📚 Meus estudos estão focados em Kotlin - Oracle - .Net <br><br>
 </div>
 
 <!-- Redes sociais -->
