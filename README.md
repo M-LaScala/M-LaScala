@@ -4,7 +4,8 @@
 <!-- Sobre -->
 <div align="center">
   No momento eu estou: <br>
-  📚 Cursando Sistemas de Informação na Universidade Católica de Santos 📚<br>
+  🎓 Graduado em Sistemas de Informação pela Universidade Católica de Santos 🎓<br>
+  📚 Cursando pós graduação em Arquitetura de Sistemas na FIAP 📚<br>
   💻 Trabalhando como Analista de Sistemas 💻<br>
   🔍 Estudando um pouco sobre 🔎<br>
 </div>
