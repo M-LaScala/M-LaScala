@@ -1,13 +1,11 @@
 <!-- Titulo -->
-<h1 align="center"> Eae! me chamo Matheus La Scala  </h1>
+<h1 align="center"> Matheus La Scala </h1>
 
 <!-- Sobre -->
 <div align="center">
-  No momento eu estou: <br>
   🎓 Graduado em Sistemas de Informação pela Universidade Católica de Santos 🎓<br>
-  📚 Cursando pós graduação em Arquitetura de Sistemas na FIAP 📚<br>
-  💻 Trabalhando como Analista de Sistemas 💻<br>
-  🔍 Estudando um pouco sobre 🔎<br>
+  📚 Pós graduado em Arquitetura de Sistemas na FIAP 📚<br>
+  💻 Trabalhando como Desenvolvedor back-end 💻<br>
 </div>
 
 <!-- Linguagens -->
